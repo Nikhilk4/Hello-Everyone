@@ -4,7 +4,7 @@ int main()
     int i, space, rows=5, k=0;
     printf("This is edited version of pyramid")
 
-    for(i=1; i<=rows; ++i, k=0)
+    for(i=1; i<=rows; ++i)
     {
         for(space=1; space<=rows-i; ++space)
         {
