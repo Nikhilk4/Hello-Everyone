@@ -4,5 +4,5 @@ compiler:
   - clang
   - gcc
 script:
-  - gcc -o Reverse Reverse.c // we can use gcc instead of clang too
+  - gcc -o Reverse Reverse.c
   - ./Reverse 
