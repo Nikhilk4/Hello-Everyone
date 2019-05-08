@@ -3,8 +3,8 @@
 void main()
 {
     int i, j, k;
-    char str[100];
-    char rev[100];
+    char str[50];
+    char rev[50];
     printf("Enter a string:\t");
     scanf("%s", str);
     printf("The original string is %s\n", str);
