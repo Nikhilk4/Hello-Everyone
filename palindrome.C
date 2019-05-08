@@ -21,6 +21,6 @@ int main()
         printf("%d is a palindrome.", originalInteger);
     else
         printf("%d is not a palindrome.", originalInteger);
-    
+    printf("code exctuted")
     return 0;
 }
