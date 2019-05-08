@@ -6,3 +6,7 @@ compiler:
 script:
   - gcc -o Reverse Reverse.c
   - ./Reverse 
+  - gcc -o palindrome palindrome.c
+  - ./palindrome 
+  - gcc -o pyramid pyramid.c
+  - ./pyramid 
