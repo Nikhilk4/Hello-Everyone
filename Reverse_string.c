@@ -17,6 +17,6 @@ void main()
         rev[j] = str[k];
         k--;
     }
-    printf("The reverse string is %s\n", rev);
+    printf("The reverse of the string is %s\n", rev);
     getch();
 }
