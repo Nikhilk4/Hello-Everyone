@@ -2,7 +2,7 @@
 int main()
 {
     int i, space, rows, k=0;
-
+    printf("This is edited version of pyramid")
     printf("Enter number of rows: ");
     scanf("%d",&rows);
 
@@ -15,7 +15,7 @@ int main()
 
         while(k != 2*i-1)
         {
-            printf("* ");
+            printf("k ");
             ++k;
         }
 
